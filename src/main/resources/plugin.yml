@@ -1,0 +1,8 @@
+name: Progress
+version: '${project.version}'
+main: net.jagsnet.minecraft.plugins.progress.Progress
+api-version: 1.18
+commands:
+  progress:
+    description: Base command for the progress plugin.
+    usage: /progress
